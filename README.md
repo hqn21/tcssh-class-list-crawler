@@ -1,4 +1,4 @@
-# tcssh-class-list-crawler
+# tcssh-timetable-crawler
 您可以透過此專案爬取臺中二中的上課課表。
 
 ## 前置套件
