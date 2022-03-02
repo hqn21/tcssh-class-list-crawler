@@ -3,7 +3,10 @@
 
 ## 前置套件
 
-### ``requests``、``bs4``
+```bash
+pip install requests        # Requests
+pip install beautifulsoup4  # BeautifulSoup4
+```
 
 ## 使用方式
 
