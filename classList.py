@@ -37,8 +37,8 @@ elif classId[1:3] == "23":
 
 r = requests.get("https://acdm3.tcssh.tc.edu.tw/csv3_web/SF4.ASP?CLA_NO=" + semesterId + semesterId + groupId + classId, headers={'Cache-Control': 'no-cache'})
 r.encoding = 'big5-hkscs'
-r = r.content
-soup = BeautifulSoup(r, "lxml")
+r = r.text
+soup = BeautifulSoup(r, "html.parser")
 texts = soup.find_all("font")
 
 print(' ')
