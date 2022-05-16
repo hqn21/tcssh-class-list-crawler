@@ -16,4 +16,4 @@ Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
 ## Contact
 劉顥權 Haoquan Liu - [contact@haoquan.me](mailto:contact@haoquan.me)
 
-Project Link: [https://github.com/hqn21/Asker/](https://github.com/hqn21/Asker/)
+Project Link: [https://github.com/hqn21/tcssh-timetable-crawler/](https://github.com/hqn21/tcssh-timetable-crawler/)
