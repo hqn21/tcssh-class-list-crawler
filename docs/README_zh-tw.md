@@ -1,5 +1,5 @@
 # tcssh-timetable-crawler
-[English](https://github.com/hqn21/Asker/blob/main/README.md) | 繁體中文
+[English](https://github.com/hqn21/tcssh-timetable-crawler/blob/main/README.md) | 繁體中文
 ## 關於專案
 此專案是一個用於抓取臺中二中課表資訊的爬蟲工具。
 ### 使用資源
