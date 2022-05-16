@@ -6,6 +6,8 @@ This project is a web crawler tool for Taichung City Municipal Taichung Second S
 * Requests
 * BeautifulSoup4
 ## Usage
+### Prerequisites
+* Python 3.7
 ```sh
 python3 classList.py
 ```
